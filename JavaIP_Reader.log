@@ -1,0 +1,22 @@
+Mon May 15 10:02:22 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:02:34 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file3.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:02:35 CAT 2017 - #140022 - Ip Address Validation Error - 1.2.3.A
+Mon May 15 10:02:47 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file4.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:02:47 CAT 2017 - #140033 - Number List Validation Error - 9,8,7,AA
+Mon May 15 10:03:02 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file4.txt and C:\JP CV 2016\JavaIP_Reader\file.txt
+Mon May 15 10:03:02 CAT 2017 - #140033 - Number List Validation Error - 9,8,7,AA
+Mon May 15 10:03:02 CAT 2017 - #150011 - File Stream Data Exception - C:\JP CV 2016\JavaIP_Reader\file.txt
+Mon May 15 10:03:13 CAT 2017 - #110011 - Need at least 2 file names
+Mon May 15 10:03:16 CAT 2017 - #110011 - Need at least 2 file names
+Mon May 15 10:03:32 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file5.txt and C:\JP CV 2016\JavaIP_Reader\file5.txt
+Mon May 15 10:03:32 CAT 2017 - #140011 - Ip/List Validation Error - 1.2.3.4:
+Mon May 15 10:03:32 CAT 2017 - #140011 - Ip/List Validation Error - 1.2.3.4:
+Mon May 15 10:03:44 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file5.txt
+Mon May 15 10:03:44 CAT 2017 - #140011 - Ip/List Validation Error - 1.2.3.4:
+Mon May 15 10:03:55 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file4.txt
+Mon May 15 10:03:55 CAT 2017 - #140033 - Number List Validation Error - 9,8,7,AA
+Mon May 15 10:04:10 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:13:09 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:15:15 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:18:58 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
+Mon May 15 10:19:50 CAT 2017 - #00000 - IP Number list merge : C:\JP CV 2016\JavaIP_Reader\file1.txt and C:\JP CV 2016\JavaIP_Reader\file2.txt
